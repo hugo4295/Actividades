@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividades</string>
+    <string name="tituloprincipal">Menu Principal</string>
+    <string name="operasuma">Suma</string>
+    <string name="operaresta">Resta</string>
+    <string name="operamultiplica">Multiplicacion</string>
+    <string name="operadivision">Division</string>
+    <string name="hintNombre">Ingresa tu nombre</string>
+    <string name="mensajesaluda">Saludar!!!</string>
+    <string name="MenuSUma">Operacion de Suma</string>
+    <string name="MenuResta">Operacion de Resta</string>
+    <string name="MenuMultiplica">Operacion de Multiplicacion</string>
+    <string name="MenuDivide">Operacion de Division</string>
+    <string name="MenuSaluda">Bienvenido a la APP</string>
+</resources>
